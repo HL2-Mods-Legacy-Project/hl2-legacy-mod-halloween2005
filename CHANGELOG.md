@@ -7,4 +7,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-<changes>
+## [2.0.0-beta.1] - 2025-07-06
+
+### Removed
+
+- SourceModPatcher tokens in gameinfo.txt
+
+## [1.0.0] - 2024-05-31
+
+### Added
+
+- Initial release in SourceModPatcher
+
+### Fixed
+
+- Missing entry for Halloween_Chapter1_Title
+- Missing widescreen background materials
+- Localization strings on weapons names
+- Remove Voice and Multiplayer tab in Options
+- Map hood01_final
+  - Remove buggy skateboard
+  - Make non-interactible houses doors start locked
